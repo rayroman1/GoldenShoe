@@ -1,0 +1,42 @@
+
+
+
+{
+  "name": "blah",
+  "gender": "male",
+  "price": "100",
+  "colors": [
+    {
+      "color": "red",
+      "url": "images/shoes-img1.png",
+      "totalStock": 11,
+      "stocks": [
+        {
+          "size": 6,
+          "stock": 10
+        },
+        {
+          "size": 7,
+          "stock": 1
+        }
+      ]
+    },
+    {
+      "color": "green",
+      "url": "images/shoes-img2.png",
+      "totalStock": 5,
+      "stocks": [
+        {
+          "size": 6,
+          "stock": 4
+        },
+        {
+          "size": 7,
+          "stock": 1
+        }
+      ]
+    }
+  ]
+}
+
+
